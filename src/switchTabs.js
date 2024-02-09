@@ -46,7 +46,6 @@ content.appendChild(btnContainer)
 }
 
 function clearContent(){
-    alert('triggering clear contnt')
     const content = document.querySelector('#content')
     const container = document.querySelector('.main-container')
     if (container) {
